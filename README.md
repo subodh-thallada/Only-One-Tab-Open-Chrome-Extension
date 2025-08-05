@@ -4,7 +4,9 @@ Only One Tab helps you focus by disabling all other tabs, so you can stay locked
 
 ## Features:
 Focus Mode: Blocks access to all other tabs except the one you’re working in
+
 One-Click Toggle: Easily activate or deactivate from the extension popup
+
 Lightweight and private: No tracking, no data collection
 
 ## Installation:
